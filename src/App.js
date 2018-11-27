@@ -9,7 +9,7 @@ class App extends Component {
 	  
     return (
       <div >
-        React simple starter
+        React simple starter for second commit
 		<UserList />
       </div>
     );
